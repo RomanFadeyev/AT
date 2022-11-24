@@ -43,26 +43,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AT.App.exe" size="827392">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AT.App.exe" size="772096">
       <assemblyIdentity name="AT.App" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>imZyn3r486nUQp6AiEQ+G/Vni2SVbgRPWXGe9l5ZF1U=</dsig:DigestValue>
+        <dsig:DigestValue>4rhEUxBE/5ktqz67u7ljcnTRbXVAKg/sF9p92H4tV3g=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AT.Connector.InteractiveBrokers.dll" size="404480">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AT.Connector.InteractiveBrokers.dll" size="375808">
       <assemblyIdentity name="AT.Connector.InteractiveBrokers" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>QUasLmTDpFUDuyxAIZpBOz+q10vxh51HkmHIBL++tsA=</dsig:DigestValue>
+        <dsig:DigestValue>5E0Qh5UXys1v0uL629QI+9tGt9H+/Ee2dDej4aKSvvM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -74,91 +74,91 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Tu+xazpRb58BeG+HRCnT5LOHHLJ+hnWjEHI5pMhyvPY=</dsig:DigestValue>
+        <dsig:DigestValue>tRuV2FsA2zdMJS04gjLMbGRGX6oGbDT1MfNRy2M+7Os=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AT.Core.Domain.dll" size="181248">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AT.Core.Domain.dll" size="169984">
       <assemblyIdentity name="AT.Core.Domain" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>A1hBwOHWmq1886zq+1CKAggEX4U27JockUzClFOMlg4=</dsig:DigestValue>
+        <dsig:DigestValue>Z0ag8KjIEcX3LrPT/wkFmnx3mRVjBSf/zEsI344TcfE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AT.Core.Gui.dll" size="77312">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AT.Core.Gui.dll" size="71680">
       <assemblyIdentity name="AT.Core.Gui" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ueONk6eTLxLcBf3uLoRCLnwQeQqx+vrRMYdSM0KsJX4=</dsig:DigestValue>
+        <dsig:DigestValue>xHAJUNmttIqAS9TQqRQr13EIBFMIVAsmYUOkly5afX4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AT.HistoryDatabase.dll" size="90624">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AT.HistoryDatabase.dll" size="80384">
       <assemblyIdentity name="AT.HistoryDatabase" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>9f0nsSOAYueopJKZ2yNIurABkZV6V899qtnOLanLimg=</dsig:DigestValue>
+        <dsig:DigestValue>cK8tcMch3c/Yc4mzVis8/zRH2xE+wp9yAgJatzl8SG4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AT.MainDatabase.dll" size="38912">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AT.MainDatabase.dll" size="37376">
       <assemblyIdentity name="AT.MainDatabase" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>VCOG0j4XTBcaYq9LdYQ0Tt8OOlwLwaZlRK3ngpvTgM0=</dsig:DigestValue>
+        <dsig:DigestValue>fShNF55juRXaZfGG6Rrom3LLaVG7ssPTmFpw6tiAE8Y=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AT.NetExtension.dll" size="63488">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AT.NetExtension.dll" size="57856">
       <assemblyIdentity name="AT.NetExtension" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>04d/0kLpleoRkD7xVzNMY8cHUNfpYXIpgoBkteI5cI8=</dsig:DigestValue>
+        <dsig:DigestValue>vKbcYm36DMWgOcDHQ44OZLZKfiiG657MiEz8QAVoGHo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AT.Script.dll" size="945152">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AT.Script.dll" size="876544">
       <assemblyIdentity name="AT.Script" version="0.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>2Dneje1ffpIUU7izduLs/J8hIr8JsY4X1SLUOnG9Qs8=</dsig:DigestValue>
+        <dsig:DigestValue>KxRDFaRd/gjxKGpAjcm/zmJz8OWu9VVzq2V3hzfCJlI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AT.Script.StdLib.dll" size="498176">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AT.Script.StdLib.dll" size="463872">
       <assemblyIdentity name="AT.Script.StdLib" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>5ju4mgS/xOAtPrEqrFq91wchziCOeS714cOPs5jmk5c=</dsig:DigestValue>
+        <dsig:DigestValue>Zc1pRAsHhBRyb4+yIRhafW1alxYydXhmYI0E948Ptp4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -327,6 +327,330 @@
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
         <dsig:DigestValue>+sydDcWoMQBYsxkD49HTPoEeIRXJzZppoxqRA3pzy4g=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DevExpress.Xpf.Themes.DXStyle.v18.1.dll" size="7670520">
+      <assemblyIdentity name="DevExpress.Xpf.Themes.DXStyle.v18.1" version="18.1.5.0" publicKeyToken="B88D1754D700E49A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>ry9UCSvdBwk9ti6u/PuknsDZ54k7UYhqE4+H3hJ01zg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DevExpress.Xpf.Themes.HybridApp.v18.1.dll" size="6093048">
+      <assemblyIdentity name="DevExpress.Xpf.Themes.HybridApp.v18.1" version="18.1.5.0" publicKeyToken="B88D1754D700E49A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>dwAOUUbVRURKamzHf362o9MyBXbH5ei/vVTGazCWlwU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DevExpress.Xpf.Themes.LightGray.v18.1.dll" size="7658232">
+      <assemblyIdentity name="DevExpress.Xpf.Themes.LightGray.v18.1" version="18.1.5.0" publicKeyToken="B88D1754D700E49A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>IAm1CXO6TyuvHFOTpGs6eq0fdRw70x2lbDU94EAgyIE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DevExpress.Xpf.Themes.MetropolisDark.v18.1.dll" size="7443192">
+      <assemblyIdentity name="DevExpress.Xpf.Themes.MetropolisDark.v18.1" version="18.1.5.0" publicKeyToken="B88D1754D700E49A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>YiRYm/EPsNdadLW7UR7jlyWiUrJMX9Ua1AcpHv7L4EY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DevExpress.Xpf.Themes.MetropolisLight.v18.1.dll" size="7449336">
+      <assemblyIdentity name="DevExpress.Xpf.Themes.MetropolisLight.v18.1" version="18.1.5.0" publicKeyToken="B88D1754D700E49A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>wdRy2Ab0VvTGQxWA4f7cHIYQVRubuJrYrwnGar4gE+Q=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DevExpress.Xpf.Themes.Office2007Black.v18.1.dll" size="7910648">
+      <assemblyIdentity name="DevExpress.Xpf.Themes.Office2007Black.v18.1" version="18.1.5.0" publicKeyToken="B88D1754D700E49A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>reDgza0+rS4kz+hn2k0iRtFLNBhQxsMCf2A+Y12eaCw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DevExpress.Xpf.Themes.Office2007Blue.v18.1.dll" size="8124664">
+      <assemblyIdentity name="DevExpress.Xpf.Themes.Office2007Blue.v18.1" version="18.1.5.0" publicKeyToken="B88D1754D700E49A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>m6Q0cY4RzNIe8ufmpFU5O9SiE1iSdE2jF8l43Oaq8GM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DevExpress.Xpf.Themes.Office2007Silver.v18.1.dll" size="7904504">
+      <assemblyIdentity name="DevExpress.Xpf.Themes.Office2007Silver.v18.1" version="18.1.5.0" publicKeyToken="B88D1754D700E49A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>x3HPUqAzDUSAcxFfjU8dC1fFqufOs+lGf7n4izhQoKg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DevExpress.Xpf.Themes.Office2010Black.v18.1.dll" size="7839480">
+      <assemblyIdentity name="DevExpress.Xpf.Themes.Office2010Black.v18.1" version="18.1.5.0" publicKeyToken="B88D1754D700E49A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>We9FQ9jJSoJWfmBiqIeDQYMDTUWCn6F6+SGgULs8RPM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DevExpress.Xpf.Themes.Office2010Blue.v18.1.dll" size="7829240">
+      <assemblyIdentity name="DevExpress.Xpf.Themes.Office2010Blue.v18.1" version="18.1.5.0" publicKeyToken="B88D1754D700E49A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>nksGIVG/igq0iUjrnpuk/kXOPHZvToldKWBvRzl4IYw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DevExpress.Xpf.Themes.Office2010Silver.v18.1.dll" size="7843064">
+      <assemblyIdentity name="DevExpress.Xpf.Themes.Office2010Silver.v18.1" version="18.1.5.0" publicKeyToken="B88D1754D700E49A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>kWKiLyOG7vKUwU1rYTYJIE+lFKlPoUBgQcLOqkMQRvE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DevExpress.Xpf.Themes.Office2013.v18.1.dll" size="7493880">
+      <assemblyIdentity name="DevExpress.Xpf.Themes.Office2013.v18.1" version="18.1.5.0" publicKeyToken="B88D1754D700E49A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>USM/icn6cmWFdhoSqxxQu/n/3uv3aT6KA5/A2638/XM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DevExpress.Xpf.Themes.Office2013DarkGray.v18.1.dll" size="7526136">
+      <assemblyIdentity name="DevExpress.Xpf.Themes.Office2013DarkGray.v18.1" version="18.1.5.0" publicKeyToken="B88D1754D700E49A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>Mt7IemA5HbedGyVR/xjgv+J2cyRdvk6ZYxn0TSpyRUA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DevExpress.Xpf.Themes.Office2013LightGray.v18.1.dll" size="7531256">
+      <assemblyIdentity name="DevExpress.Xpf.Themes.Office2013LightGray.v18.1" version="18.1.5.0" publicKeyToken="B88D1754D700E49A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>RfwckcFtLT6R7CLZCpKn9Lni1euCVXBlqF69CXcSdLc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DevExpress.Xpf.Themes.Office2016Black.v18.1.dll" size="7516408">
+      <assemblyIdentity name="DevExpress.Xpf.Themes.Office2016Black.v18.1" version="18.1.5.0" publicKeyToken="B88D1754D700E49A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>/2PT39llUhj8NzP2TfuNJY94fha13JSUnbsEPgCvT8g=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DevExpress.Xpf.Themes.Office2016BlackSE.v18.1.dll" size="8286456">
+      <assemblyIdentity name="DevExpress.Xpf.Themes.Office2016BlackSE.v18.1" version="18.1.5.0" publicKeyToken="B88D1754D700E49A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>ga5F57on2el2aXSnHpoBFevO9Ljrc1HvYRh0b+6LQq0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DevExpress.Xpf.Themes.Office2016Colorful.v18.1.dll" size="7529208">
+      <assemblyIdentity name="DevExpress.Xpf.Themes.Office2016Colorful.v18.1" version="18.1.5.0" publicKeyToken="B88D1754D700E49A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>qVaQhcFGm+lJ3BtLZJHVk48srJwUxH3n0jaVlGLl07A=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DevExpress.Xpf.Themes.Office2016ColorfulSE.v18.1.dll" size="8299768">
+      <assemblyIdentity name="DevExpress.Xpf.Themes.Office2016ColorfulSE.v18.1" version="18.1.5.0" publicKeyToken="B88D1754D700E49A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>0DGef1+vxR2mc26HkX5cvGopGp6kdRg3gseZrMQI/3I=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DevExpress.Xpf.Themes.Office2016DarkGraySE.v18.1.dll" size="8308472">
+      <assemblyIdentity name="DevExpress.Xpf.Themes.Office2016DarkGraySE.v18.1" version="18.1.5.0" publicKeyToken="B88D1754D700E49A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>qS38ta69171slz11mkXDQPGfyoZjoKANz6jfgdMW4LY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DevExpress.Xpf.Themes.Office2016White.v18.1.dll" size="7511288">
+      <assemblyIdentity name="DevExpress.Xpf.Themes.Office2016White.v18.1" version="18.1.5.0" publicKeyToken="B88D1754D700E49A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>f8TztR05pAv5AdLy2CuGMv/TQG2OrzX5rkDc8NEpS+A=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DevExpress.Xpf.Themes.Office2016WhiteSE.v18.1.dll" size="8288504">
+      <assemblyIdentity name="DevExpress.Xpf.Themes.Office2016WhiteSE.v18.1" version="18.1.5.0" publicKeyToken="B88D1754D700E49A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>YzPIMG1pEIWcNSOF97NTUSzS7FqW935TgTX5hffx3fU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DevExpress.Xpf.Themes.Seven.v18.1.dll" size="7820536">
+      <assemblyIdentity name="DevExpress.Xpf.Themes.Seven.v18.1" version="18.1.5.0" publicKeyToken="B88D1754D700E49A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>vQhj0Ze5nlFThcixbRNIENpLrZ5pP8vEw9BeAFZRjMM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DevExpress.Xpf.Themes.TouchlineDark.v18.1.dll" size="7402744">
+      <assemblyIdentity name="DevExpress.Xpf.Themes.TouchlineDark.v18.1" version="18.1.5.0" publicKeyToken="B88D1754D700E49A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>lfpnCOrVdxYezLUSUHKNPJseBdh967ZqBDntbJZFpYk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DevExpress.Xpf.Themes.VS2010.v18.1.dll" size="7745272">
+      <assemblyIdentity name="DevExpress.Xpf.Themes.VS2010.v18.1" version="18.1.5.0" publicKeyToken="B88D1754D700E49A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>oI0+QMD6psP6rGecM6klsoDLePId+S7uD3/1LRpxucI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DevExpress.Xpf.Themes.VS2017Blue.v18.1.dll" size="8197368">
+      <assemblyIdentity name="DevExpress.Xpf.Themes.VS2017Blue.v18.1" version="18.1.5.0" publicKeyToken="B88D1754D700E49A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>OQDE/qYRpl2noTDJoeo5c7UOBO3bkgUtX80mtrpEHJc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DevExpress.Xpf.Themes.VS2017Dark.v18.1.dll" size="8184568">
+      <assemblyIdentity name="DevExpress.Xpf.Themes.VS2017Dark.v18.1" version="18.1.5.0" publicKeyToken="B88D1754D700E49A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>BCjm02fIk5D2zW5+9KQrNhvoHWynXykQ/zux9hC4SYI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DevExpress.Xpf.Themes.VS2017Light.v18.1.dll" size="8174328">
+      <assemblyIdentity name="DevExpress.Xpf.Themes.VS2017Light.v18.1" version="18.1.5.0" publicKeyToken="B88D1754D700E49A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>LC97/9CjUJTO2ib6vJ9o+7KV3CWRPNkQ5Z2Ah/BSlcU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
