@@ -141,7 +141,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>LoNT1Cwt9keTJyRn81AauJvFKudkr2k4pXHRfCYQQm8=</dsig:DigestValue>
+      <dsig:DigestValue>C+m0M3UYpc8aT0P+L+hqMYJiXzODSsFqvCKnyLdDpWs=</dsig:DigestValue>
     </hash>
   </file>
   <file name="AT.NetExtension.dll" size="301056">
@@ -222,7 +222,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>rVd0FbBXFvCCzsHlGYWchXwAaCAqrMtSRiSZv7QORic=</dsig:DigestValue>
+      <dsig:DigestValue>Q1f7CNIFUz//R7eiZlWnSG4d+poAG+FD/eBIioUp8hQ=</dsig:DigestValue>
     </hash>
   </file>
   <file name="AT.Shell.dll.config" size="45014">
@@ -270,13 +270,13 @@
       <dsig:DigestValue>CUweMLJmQu2QmcLD6vKG1b3JH2AJS5blmqHeIF2riac=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="AT.Ui.SciChart.dll" size="20480">
+  <file name="AT.Ui.SciChart.dll" size="21504">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>y46AUnLz70b8Fv2Fu+EGy55fHdd/0x2+penGToxCOCo=</dsig:DigestValue>
+      <dsig:DigestValue>WJWfMt3zpcMiagUylp5dfHSk8TPdzWfIRlvRNqNwU7I=</dsig:DigestValue>
     </hash>
   </file>
   <file name="BouncyCastle.Crypto.dll" size="3318504">
