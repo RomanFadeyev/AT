@@ -14,14 +14,14 @@
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Application Files\AT.Shell_1_0_0_3\AT.Shell.dll.manifest" size="81904">
+    <dependentAssembly dependencyType="install" codebase="Application Files\AT.Shell_1_0_0_3\AT.Shell.dll.manifest" size="81918">
       <assemblyIdentity name="AT.Shell.exe" version="1.0.0.3" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>p4QHsFPlzfarZ5L/XCNh/0f1oYSLU+utLWZGTbc+F0w=</dsig:DigestValue>
+        <dsig:DigestValue>qiI2g4nbms3nSRaropOh2/6WUcFMR12BEINNH3ylPiE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

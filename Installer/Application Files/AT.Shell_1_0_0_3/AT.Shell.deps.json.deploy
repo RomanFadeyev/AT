@@ -17,7 +17,7 @@
           "AT.HistoricalDataStorage": "1.0.0",
           "AT.Modules": "1.0.0",
           "AT.NetExtension": "1.0.0",
-          "AT.Providers.Test": "1.0.0",
+          "AT.Providers.InteractiveBrokers": "1.0.0",
           "AT.Script.Core": "1.0.0",
           "AT.Script.StdLib": "1.0.0",
           "AT.ScriptSupport": "1.0.0",
@@ -2503,7 +2503,7 @@
           "AT.Providers.dll": {}
         }
       },
-      "AT.Providers.Test/1.0.0": {
+      "AT.Providers.InteractiveBrokers/1.0.0": {
         "dependencies": {
           "AT.Common": "1.0.0",
           "AT.Domain": "1.0.0",
@@ -2512,7 +2512,7 @@
           "InteractiveBrokers.Gateway": "1.0.0"
         },
         "runtime": {
-          "AT.Providers.Test.dll": {}
+          "AT.Providers.InteractiveBrokers.dll": {}
         }
       },
       "AT.Script.Core/1.0.0": {
@@ -4207,7 +4207,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "AT.Providers.Test/1.0.0": {
+    "AT.Providers.InteractiveBrokers/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
