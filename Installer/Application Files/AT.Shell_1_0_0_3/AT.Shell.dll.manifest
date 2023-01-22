@@ -141,7 +141,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>C+m0M3UYpc8aT0P+L+hqMYJiXzODSsFqvCKnyLdDpWs=</dsig:DigestValue>
+      <dsig:DigestValue>UxaRJ5Blo1jyZmXdnAEGWlf5tGYVUFfLtQbY9SsT+H0=</dsig:DigestValue>
     </hash>
   </file>
   <file name="AT.NetExtension.dll" size="301056">
@@ -168,7 +168,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>MCSQn20tCRnVydvXpvp+HZ4YnlR8kbx9AW88EdvkCRA=</dsig:DigestValue>
+      <dsig:DigestValue>BnTDoINdbg6eTDvu5LsZNXgcEtn6BsRAOOQGdaQNNYo=</dsig:DigestValue>
     </hash>
   </file>
   <file name="AT.Script.Core.dll" size="265728">
@@ -222,7 +222,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>Q1f7CNIFUz//R7eiZlWnSG4d+poAG+FD/eBIioUp8hQ=</dsig:DigestValue>
+      <dsig:DigestValue>gK7sPfglL0bYjARLy2+/3tSh5lv5sSw6Tn5gI2gywCA=</dsig:DigestValue>
     </hash>
   </file>
   <file name="AT.Shell.dll.config" size="45014">
@@ -261,13 +261,13 @@
       <dsig:DigestValue>R5ndPxVPFNjms+wpAxDOpzoDqPyMtnKDJTj1tMf06Yc=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="AT.Ui.dll" size="130560">
+  <file name="AT.Ui.dll" size="131584">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>CUweMLJmQu2QmcLD6vKG1b3JH2AJS5blmqHeIF2riac=</dsig:DigestValue>
+      <dsig:DigestValue>N+mPdiz/sZAdL9Hm4xuBCuiMxseue5tp3de1+tVNv3Y=</dsig:DigestValue>
     </hash>
   </file>
   <file name="AT.Ui.SciChart.dll" size="21504">
