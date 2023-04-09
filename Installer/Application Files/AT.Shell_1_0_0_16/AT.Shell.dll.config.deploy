@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <appSettings>
+    <add key="GarbageCollectOnViewClosing" value="false"/>
+    <add key="MarketDataMultiThreadedEmission" value="false"/>
+    <add key="MaxAllowableTimeDiscrepancyMilliseconds" value="1000"/>
+    <add key="ProviderReconnectionPeriodMilliseconds" value="30000"/>
+   
+  </appSettings>
+
+</configuration>
